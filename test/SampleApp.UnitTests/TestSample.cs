@@ -6,9 +6,15 @@
     public class TestSample
     {
         [Test]
-        public void Test()
+        public void TestPass()
         {
-            Assert.Fail();
+            Assert.Pass("Yay!");
+        }
+        
+        [Test]
+        public void TestFail()
+        {
+            Assert.Fail(":'(");
         }
     }
 }
