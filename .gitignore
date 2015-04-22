@@ -2,7 +2,5 @@
 /TestResult.xml
 /.nuget
 /packages
-/src/SampleApp/obj
-/src/SampleApp/bin
-/test/SampleApp.UnitTests/obj
-/test/SampleApp.UnitTests/bin
+**/obj/
+**/bin/
