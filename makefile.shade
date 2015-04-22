@@ -4,4 +4,4 @@
   build projectFile="SampleApp.sln" configuration="Release"
 
 #unitTests .build
-  nunit testFile="test\SampleApp.UnitTests\bin\Debug\SampleApp.UnitTests.dll"
+  nunit testFile="test\SampleApp.UnitTests\bin\Release\SampleApp.UnitTests.dll"
