@@ -1,0 +1,7 @@
+C:\Users\njlgad.SEAHORSE\SandPit\csharp-sample-project\test\SampleApp.UnitTests\bin\Debug\SampleApp.UnitTests.dll
+C:\Users\njlgad.SEAHORSE\SandPit\csharp-sample-project\test\SampleApp.UnitTests\bin\Debug\SampleApp.UnitTests.pdb
+C:\Users\njlgad.SEAHORSE\SandPit\csharp-sample-project\test\SampleApp.UnitTests\bin\Debug\nunit.framework.dll
+C:\Users\njlgad.SEAHORSE\SandPit\csharp-sample-project\test\SampleApp.UnitTests\bin\Debug\nunit.framework.xml
+C:\Users\njlgad.SEAHORSE\SandPit\csharp-sample-project\test\SampleApp.UnitTests\obj\Debug\SampleApp.UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\njlgad.SEAHORSE\SandPit\csharp-sample-project\test\SampleApp.UnitTests\obj\Debug\SampleApp.UnitTests.dll
+C:\Users\njlgad.SEAHORSE\SandPit\csharp-sample-project\test\SampleApp.UnitTests\obj\Debug\SampleApp.UnitTests.pdb
