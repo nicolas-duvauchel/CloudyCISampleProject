@@ -1,7 +1,0 @@
-C:\Users\njlgad.SEAHORSE\SandPit\csharp-sample-project\test\SampleApp.UnitTests\bin\Release\SampleApp.UnitTests.dll
-C:\Users\njlgad.SEAHORSE\SandPit\csharp-sample-project\test\SampleApp.UnitTests\bin\Release\SampleApp.UnitTests.pdb
-C:\Users\njlgad.SEAHORSE\SandPit\csharp-sample-project\test\SampleApp.UnitTests\bin\Release\nunit.framework.dll
-C:\Users\njlgad.SEAHORSE\SandPit\csharp-sample-project\test\SampleApp.UnitTests\bin\Release\nunit.framework.xml
-C:\Users\njlgad.SEAHORSE\SandPit\csharp-sample-project\test\SampleApp.UnitTests\obj\Release\SampleApp.UnitTests.csprojResolveAssemblyReference.cache
-C:\Users\njlgad.SEAHORSE\SandPit\csharp-sample-project\test\SampleApp.UnitTests\obj\Release\SampleApp.UnitTests.dll
-C:\Users\njlgad.SEAHORSE\SandPit\csharp-sample-project\test\SampleApp.UnitTests\obj\Release\SampleApp.UnitTests.pdb

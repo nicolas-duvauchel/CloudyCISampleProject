@@ -2,5 +2,5 @@
 /TestResult.xml
 /.nuget
 /packages
-**/obj/
-**/bin/
+**/obj
+**/bin

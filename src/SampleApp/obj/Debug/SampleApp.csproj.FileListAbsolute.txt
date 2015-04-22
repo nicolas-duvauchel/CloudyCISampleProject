@@ -1,8 +1,0 @@
-C:\Users\njlgad.SEAHORSE\SandPit\csharp-sample-project\SampleApp\SampleApp\bin\Debug\SampleApp.exe.config
-C:\Users\njlgad.SEAHORSE\SandPit\csharp-sample-project\SampleApp\bin\Debug\SampleApp.exe.config
-C:\Users\njlgad.SEAHORSE\SandPit\csharp-sample-project\src\SampleApp\bin\Debug\SampleApp.exe.config
-C:\Users\njlgad.SEAHORSE\SandPit\csharp-sample-project\src\SampleApp\bin\Debug\SampleApp.exe
-C:\Users\njlgad.SEAHORSE\SandPit\csharp-sample-project\src\SampleApp\bin\Debug\SampleApp.pdb
-C:\Users\njlgad.SEAHORSE\SandPit\csharp-sample-project\src\SampleApp\obj\Debug\SampleApp.csprojResolveAssemblyReference.cache
-C:\Users\njlgad.SEAHORSE\SandPit\csharp-sample-project\src\SampleApp\obj\Debug\SampleApp.exe
-C:\Users\njlgad.SEAHORSE\SandPit\csharp-sample-project\src\SampleApp\obj\Debug\SampleApp.pdb
