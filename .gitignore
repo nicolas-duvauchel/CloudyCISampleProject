@@ -1,6 +1,6 @@
 /SampleApp.v12.suo
 /TestResult.xml
-/.nuget
 /packages
 **/obj
 **/bin
+/.nuget/nuget.exe
