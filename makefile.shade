@@ -1,7 +1,25 @@
-#default .build
+use namespace="System.Collections"
+use namespace="System.IO"
+use namespace="System.Linq"
+use import="Files"
 
-#build
-  build projectFile="SampleApp.sln" configuration="Release"
+var PROJECT='CloudyCI'
+var VERSION='0.0.1'
+var FULL_VERSION='${VERSION}'
+var AUTHORS='${PROJECT} contributors'
 
-#unitTests .build
-  nunit testFile="test\SampleApp.UnitTests\bin\Release\SampleApp.UnitTests.dll"
+var BASE_DIR='${Directory.GetCurrentDirectory()}'
+var TARGET_DIR='${Path.Combine(BASE_DIR, "target")}'
+var BUILD_DIR='${Path.Combine(TARGET_DIR, "build")}'
+var TEST_DIR='${Path.Combine(TARGET_DIR, "test")}'
+
+default TEST_PROJECTS='${Files.Include("./**/*.UnitTests.csproj")}'
+default TEST_ASSEMBLIES='${Files.Include(Path.Combine(TEST_DIR, "**/*.UnitTests.dll"))}'
+
+-// include range of standard general targets. run "sake targets" to display
+use-standard-lifecycle
+
+-// include sets of standard work targets. features include 'nuget,xunit,nunit'
+use-standard-goals features='nunit,nuget'
+
+-// additional work targets are defined below

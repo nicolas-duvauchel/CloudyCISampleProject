@@ -4,3 +4,4 @@
 **/obj
 **/bin
 /.nuget/nuget.exe
+/target

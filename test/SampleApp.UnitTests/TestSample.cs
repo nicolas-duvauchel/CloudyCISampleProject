@@ -10,11 +10,5 @@
         {
             Assert.Pass("Yay!");
         }
-        
-        [Test]
-        public void TestFail()
-        {
-            Assert.Fail(":'(");
-        }
     }
 }
